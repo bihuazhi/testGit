@@ -5,5 +5,7 @@ public class GitTest {
 		String a = null;
 		System.out.println("left...");
 		System.out.println("left2222...");
+		
+		System.out.println("hot_fix.......");
 	}
 }
