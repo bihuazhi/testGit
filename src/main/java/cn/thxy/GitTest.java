@@ -8,5 +8,7 @@ public class GitTest {
 		System.out.println("right 22....");
 		System.out.println("left...");
 		System.out.println("left2222...");
+		
+		System.out.println("hot_fix.......");
 	}
 }
